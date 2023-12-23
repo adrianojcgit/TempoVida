@@ -2,6 +2,6 @@
 {
     public interface IOperation
     {
-        string OperationId { get}
+        string OperationId { get; }
     }
 }

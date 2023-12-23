@@ -1,6 +1,6 @@
 ﻿namespace TempoVida.Services
 {
-    public interface IOperationTransient : IOperation { }
+    public interface IOperationTransient : IOperation
     {
     }
 }
