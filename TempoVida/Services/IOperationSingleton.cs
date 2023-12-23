@@ -1,6 +1,6 @@
 ﻿namespace TempoVida.Services
 {
-    public interface IOperationSingleton
+    public interface IOperationSingleton : IOperation { }
     {
     }
 }

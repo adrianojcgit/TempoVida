@@ -1,6 +1,6 @@
 ﻿namespace TempoVida.Services
 {
-    public interface IOperationScoped
+    public interface IOperationScoped : IOperation { }
     {
     }
 }
